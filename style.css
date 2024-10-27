@@ -1,0 +1,14 @@
+.bookacti-submit-calendar {
+    background: #0ab6f4;
+    padding: 10px;
+    text-align: center;
+    width: 250px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.bookacti-submit-calendar a {
+    color: white!important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
